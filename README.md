@@ -1,25 +1,21 @@
-# Objetivos de la repositorio
+# Práctica: Liga de la Justicia
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Repositorio de práctica de Git y Markdown con temática de la Liga de la Justicia; no documenta una aplicación ejecutable.
 
-## Estos cambios son nuevos desde mi repositorio local
-## Estos cambios son nuevos desde GitHub
+## Tecnologías
 
+- Git
+- GitHub
+- Markdown
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+## Instalación y ejecución
 
-* A
-* B
-* C
-* D
-* E
-  * e1
-  * e2
-  * e3
+No requiere instalación.
 
-![GitHub_Logo](https://octodex.github.com/images/orderedlistocat.png)
+## Uso
+
+Consulta el README y el historial.
+
+## Repositorio
+
+[leonardomorales-oss/liga-justicia](https://github.com/leonardomorales-oss/liga-justicia)
